@@ -1,4 +1,4 @@
-# -GuessMyNumber
+# GuessMyNumber
  
  
  This is a small game based on HTML, CSS and Javascript This takes a number as an input and compares it with the set number
